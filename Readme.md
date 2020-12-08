@@ -11,3 +11,11 @@ Per le installazioni, fare riferimento alle guide riportate nei siti ufficiali, 
 - https://www.virtualbox.org/wiki/Downloads
 
 - https://www.vagrantup.com/docs/installation
+
+## Primo utilizzo
+
+Una volta scaricati i files di questo repository, entrare nella directory dev-env ed eseguire:
+
+``vagrant up``
+
+Verra' avviato il processo di download dell base box e successivamente il processo di provisioning.

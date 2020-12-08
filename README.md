@@ -19,3 +19,7 @@ Una volta scaricati i files di questo repository, entrare nella directory dev-en
 ``vagrant up``
 
 Verra' avviato il processo di download dell base box e successivamente il processo di provisioning.
+
+## Dati di accesso
+
+La VM che verra' creata potra' essere acceduta tramite la combinazione utente `vagrant` password `vagrant`.

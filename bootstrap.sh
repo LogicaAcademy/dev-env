@@ -25,6 +25,10 @@ npm install --global n
 
 n stable
 
+## Installa il client NG
+
+npm install -g @angular/cli
+
 
 ## Installa Java
 

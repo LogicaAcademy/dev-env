@@ -23,3 +23,12 @@ Verra' avviato il processo di download dell base box e successivamente il proces
 ## Dati di accesso
 
 La VM che verra' creata potra' essere acceduta tramite la combinazione utente `vagrant` password `vagrant`.
+
+
+## Provisioning forzato in caso di modifica al bootstrap.sh
+
+Nel caso in cui il file bootstrap.sh venisse modificato, e'sufficiente rielaborare il seguente comando per installare le nuove librerie:
+
+````vagrant up --provision````
+
+

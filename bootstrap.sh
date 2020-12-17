@@ -25,3 +25,11 @@ npm install --global n
 
 n stable
 
+
+## Installa Java
+
+apt-get install -y openjdk-8-jdk
+
+## Installa Maven
+
+apt-get install -y maven
